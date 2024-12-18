@@ -242,7 +242,7 @@ QPushButton:pressed {
 }</string>
     </property>
     <property name="text">
-     <string>Mod by SkorneDemon</string>
+     <string>Mod by Pedroamaral2012</string>
     </property>
    </widget>
    <widget class="QPushButton" name="youtube_btn">
